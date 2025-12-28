@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Integration of Sign Recognition through Deep Learning as a support tool in the teaching of Panamanian Sign Language**
 
-- 🌱 I’m currently learning **Deep Learning, Artificial Vision, Flask**
+- 🌱 I’m currently learning **Deep Learning, Artificial Vision, Flask, Parallel Computing**
 
 - 👨‍💻 All of my projects are available at [https://tabby-knight-946.notion.site/Portafolio-de-Proyectos-196cbdcefb0880e190a6eeb982fdeb39](https://tabby-knight-946.notion.site/Portafolio-de-Proyectos-196cbdcefb0880e190a6eeb982fdeb39)
 

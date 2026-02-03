@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Isabel Flores</h1>
 <h3 align="center">Software Engineering Student</h3>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iflores18" alt="iflores18" /></a> </p>
+-->
 
 - 🔭 I’m currently working on **Integration of Sign Recognition through Deep Learning as a support tool in the teaching of Panamanian Sign Language**
 
